@@ -1,5 +1,5 @@
 # Tourist Telegram bot
-obtaining information about cities and managing it through REST WebService
+obtaining information about cities and managing it through REST WebService using Telegram Bot API
 ## Before start
 1. install Java 1.8
 2. install Maven
